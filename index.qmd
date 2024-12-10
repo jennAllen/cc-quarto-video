@@ -9,6 +9,7 @@ include-in-header:
 - Similar to the Keynote Live Video feature
 - Test Update - AUTO_REPUBLISH
 - Second test update from AUTO REPUBLISHING
+- Third time is a charm
 
 ---
 
